@@ -1,0 +1,51 @@
+.image1 {
+  background-size: cover;
+  padding: 20px;
+  background-repeat: no-repeat;
+  position: relative;
+  transition: transform 1s;
+  border-radius: 10px;
+  width: 100%;
+}
+.image1:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+}
+.text2 {
+  font-family: "Source Code Pro", monospace;
+  padding: 20px;
+}
+.title2 {
+  color: rgb(134 170 195);
+}
+.bellive {
+  transition: transform 1s;
+  border-radius: 10px;
+}
+.bellive:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+}
+.body-c {
+  background-color: rgb(238, 238, 238);
+}
+.offer {
+  transition: transform 1s;
+  border-radius: 10px;
+}
+.offer:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+}
+.work {
+  transition: transform 1s;
+  border-radius: 10px;
+}
+.work:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+}

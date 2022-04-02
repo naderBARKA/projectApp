@@ -1,0 +1,120 @@
+.img1 {
+  width: 50%;
+  height: 350px;
+  background-size: 500px;
+  border-radius: 10px;
+  float: right;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.img1:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+
+.text3 {
+  font-family: "Source Code Pro", monospace;
+  padding: 20px;
+}
+.title3 {
+  color: rgb(134 170 195);
+}
+
+.img2 {
+  width: 50%;
+  height: 350px;
+  background-size: 500px;
+  float: Left;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  position: relative;
+}
+.img2:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+
+.img3 {
+  width: 50%;
+  height: 350px;
+  background-size: cover;
+  float: left;
+  background-repeat: no-repeat;
+  position: relative;
+  transition: transform 1s;
+  border-radius: 10px;
+}
+.img3:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+}
+.img4 {
+  width: 50%;
+  height: 350px;
+  background-size: cover;
+  float: right;
+  background-repeat: no-repeat;
+  position: relative;
+  transition: transform 1s;
+  border-radius: 10px;
+}
+.img4:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+}
+.DoctorSevice1 {
+  background-color: rgb(229, 226, 226);
+  width: 50%;
+  height: 350px;
+  background-size: 500px;
+  float: left;
+  border-radius: 10px;
+}
+
+.DoctorSevice1:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+.Services1 {
+  float: left;
+  width: 50%;
+  height: 350px;
+  background-color: whiteSmoke;
+  background-size: 50%;
+  border-radius: 10px;
+}
+
+.Services2 {
+  float: right;
+  width: 50%;
+  height: 350px;
+  background-color: whiteSmoke;
+  background-size: 50%;
+  border-radius: 10px;
+}
+.Services3 {
+  float: Left;
+  height: 350px;
+  width: 50%;
+
+  background-color: whiteSmoke;
+  background-size: 50%;
+  border-radius: 10px;
+}
+.Services4 {
+  float: right;
+
+  width: 50%;
+  height: 350px;
+  background-color: whiteSmoke;
+  background-size: 50%;
+  border-radius: 10px;
+}

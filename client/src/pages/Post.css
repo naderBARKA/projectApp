@@ -1,0 +1,31 @@
+.title4 {
+  color: rgb(88, 180, 246);
+  padding: 10px;
+}
+.text4 {
+  font-family: "Source Code Pro", monospace;
+  padding: 10px;
+  font-size: medium;
+}
+.body {
+  background-color: rgb(219, 206, 206);
+  padding: 30px;
+  border-radius: 20px;
+}
+.body2 {
+  background-color: rgb(219, 206, 206);
+  padding: 30px;
+  border-radius: 20px;
+}
+.body:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+.body2:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
